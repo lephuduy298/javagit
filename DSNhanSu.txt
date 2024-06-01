@@ -1,0 +1,10 @@
+001 # Duy # 1998 # buoi@gmail.com # 09134 # true
+002 # Hau # 1992 # chuoi@gmail.com # 09234 # false
+003 # Anh # 1998 # man@gmail.com # 09334 # false
+004 # Hung # 1993 # xoai@gmail.com # 09134 # true
+005 # Giap # 1994 # hoa@gmail.com # 09834 # false
+006 # Linh # 1992 # lan@gmail.com # 09834 # false
+007 # Trang # 1993 # huong@gmail.com # 09834 # true
+008 # Kiet # 1998 # vit@gmail.com # 09834 # false
+009 # Quyen # 1994 # heo@gmail.com # 09834 # false
+010 # Sang # 1995 # ga@gmail.com # 09834 # false
